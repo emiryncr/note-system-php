@@ -42,7 +42,7 @@ Clone project
 Import database
 
 ```bash
-  Go phpmyadmin, then import fbteamdb.sql
+  Go phpmyadmin, then import notedb.sql
 ```
 
 Run server
