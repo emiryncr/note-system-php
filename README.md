@@ -1,6 +1,6 @@
 # note-system-php
 
-
+Very practical CRUD examples and PHP note-taking system. Created for practice purposes.
 
 ## Aim
 
@@ -15,6 +15,7 @@ To practice for PHP final exam.
 ## Preview
 
 
+https://github.com/user-attachments/assets/c1557ab6-9518-42ff-b42b-daeb56d2a2db
 
 
   
